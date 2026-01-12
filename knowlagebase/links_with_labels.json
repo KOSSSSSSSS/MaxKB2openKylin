@@ -1,0 +1,30 @@
+{
+    "internal": {
+        "English": "https://www.openkylin.top/index-en.html",
+        "SIG": "https://www.openkylin.top/sig/application-cn.html",
+        "《关于cookies》": "https://www.openkylin.top/support/cookies.html",
+        "下载": "https://www.openkylin.top/downloads/index-cn.html",
+        "中文(繁体)": "https://www.openkylin.top/index-zh.html",
+        "会员": "https://www.openkylin.top/community/partner-cn.html",
+        "关于openKylin": "https://www.openkylin.top/community/openkylin-cn.html",
+        "动态": "https://www.openkylin.top/dynamic/index-cn.html",
+        "品牌使用指南": "https://www.openkylin.top/about/brand_specifications-cn.html",
+        "国际排名": "https://www.openkylin.top/international_ranking.html",
+        "学习": "https://www.openkylin.top/Learning/index-cn.html",
+        "开发": "https://www.openkylin.top/developers/index-cn.html",
+        "支持": "https://www.openkylin.top/support/index-cn.html",
+        "法律声明": "https://www.openkylin.top/support/legal-cn.html",
+        "社区": "https://www.openkylin.top/community/index-cn.html",
+        "社区架构": "https://www.openkylin.top/about/member-cn.html",
+        "行为守则": "https://www.openkylin.top/join/conduct-cn.html",
+        "软件上架声明": "https://www.openkylin.top/support/disclaimer-cn.html",
+        "隐私协议": "https://www.openkylin.top/support/privacy_policy-cn.html"
+    },
+    "external": {
+        "Personal Center": "https://id.openkylin.top/personal-center",
+        "个人中心": "https://id.openkylin.top/personal-center",
+        "津ICP备15002470号-12": "https://beian.miit.gov.cn/",
+        "社区论坛": "http://bbs.openkylin.top/",
+        "签署": "https://cla.openkylin.top/"
+    }
+}
